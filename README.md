@@ -11,7 +11,7 @@ Welcome to the official repository for **Python 101**, hosted jointly by the MET
 ## How to Start Coding (Zero Installation)
 
 We use GitHub Codespaces so you can write and run code directly in your browser.
-1. Click the **Code** button (the green button at the top).
+1. Click the **Code** button (the blue button at the top).
 2. Click the **Codespaces** tab.
 3. Click **Create codespace on main**.
 4. Wait 30 seconds for your cloud computer to boot up. You are ready to code!
