@@ -1,11 +1,11 @@
-# [Course Name] - METU IEEE [Society Name]
+# Python 101 - METU IEEE Computer Society
 
-Welcome to the official repository for **[Course Name]**, hosted by the METU IEEE [Society Name]. 
+Welcome to the official repository for **Python 101**, hosted by the METU IEEE Computer Society. 
 
 ## Course Overview
-* **Instructor(s):** [Names]
-* **Duration:** [X] Weeks
-* **Prerequisites:** [None / Basic Programming / Math 119, etc.]
+* **Instructor(s):** Ahmet Tağluk
+* **Duration:** 7 Weeks (5 + 2)
+* **Prerequisites:** None required, this education is completely beginner-centred.
 
 ## How to Start Coding (Zero Installation)
 We use GitHub Codespaces so you can write and run code directly in your browser.
