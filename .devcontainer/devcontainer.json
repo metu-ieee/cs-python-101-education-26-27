@@ -1,0 +1,22 @@
+{
+  "name": "METU IEEE Education Environment",
+  
+  // ⬇️ INSTRUCTORS: Change this image to match your course language!
+  // Python Example: "mcr.microsoft.com/devcontainers/python:3"
+  // C++ Example: "mcr.microsoft.com/devcontainers/cpp:ubuntu"
+  // MATLAB Example: "mathworks/matlab:latest"
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true
+      },
+      // Add required VS Code extensions here (e.g., "ms-python.python")
+      "extensions": []
+    }
+  },
+  
+  // Optional: A script that runs when the container first starts (e.g., pip install -r requirements.txt)
+  "postCreateCommand": "echo 'Welcome to the METU IEEE Cloud Environment!'"
+}
