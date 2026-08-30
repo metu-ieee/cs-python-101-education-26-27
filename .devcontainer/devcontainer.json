@@ -14,10 +14,11 @@
       },
       "extensions": [
         "ms-python.python",
-        "ms-python.black-formatter"
+        "ms-python.black-formatter",
+        "ms-toolsai.jupyter"
       ]
     }
   },
   
-  "postCreateCommand": "echo 'Welcome to the CS+AESS Python 101 Cloud Environment!'"
+  "postCreateCommand": "pip install ipykernel && echo 'Welcome to the CS+AESS Python 101 Cloud Environment!'"
 }
