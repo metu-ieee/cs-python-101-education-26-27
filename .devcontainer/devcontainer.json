@@ -20,5 +20,5 @@
     }
   },
   
-  "postCreateCommand": "pip install ipykernel && echo 'Welcome to the CS+AESS Python 101 Cloud Environment!'"
+  "postCreateCommand": "pip install ipykernel && echo 'echo \"Welcome to the CS+AESS Python 101 Cloud Environment!\"' >> ~/.bashrc"
 }
