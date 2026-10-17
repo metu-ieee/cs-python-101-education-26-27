@@ -1,4 +1,4 @@
-# Python 101 - METU IEEE CS & AESS
+# Python 101 - METU IEEE CS
 
 Welcome to the official repository for **Python 101**, hosted jointly by the METU IEEE Computer Society (CS).
 
