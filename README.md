@@ -1,6 +1,6 @@
 # Python 101 - METU IEEE CS & AESS
 
-Welcome to the official repository for **Python 101**, hosted jointly by the METU IEEE Computer Society (CS) and Aerospace and Electronic Systems Society (AESS).
+Welcome to the official repository for **Python 101**, hosted jointly by the METU IEEE Computer Society (CS).
 
 ## Course Overview
 
@@ -20,7 +20,7 @@ We use GitHub Codespaces so you can write and run code directly in your browser.
 
 | Week | Topic | Materials | Assignment |
 | --- | --- | --- | --- |
-| 1 | Coding & Python Introduction, Variables, Basic I/O, Primitive Data Types & Type Casting | [Link to /lectures](./lectures/week-01) | [Link to /assignments](https://www.google.com/search?q=./assignments/week-01) |
+| 1 | Coding & Python Introduction, Variables, Basic I/O, Primitive Data Types & Type Casting, control-flow essentials | [Link to /lectures](./lectures/week-01) | [Link to /assignments](./assignments/week-01) |
 | 2 | [Topic Name] | [Link to /lectures] | [Link to /assignments] |
 | 3 | [Topic Name] | [Link to /lectures] | [Link to /assignments] |
 
