@@ -20,10 +20,10 @@ We use GitHub Codespaces so you can write and run code directly in your browser.
 
 | Week | Topic | Materials | Assignment |
 | --- | --- | --- | --- |
-| 1 | Coding & Python Introduction, Variables, Basic I/O, Primitive Data Types & Type Casting, control-flow essentials | [Link to lectures](./lectures/week-01) | [Link to assignments](./assignments/week-01) |
-| 2 | [Topic Name] | [Link to /lectures] | [Link to /assignments] |
+| 1 | Coding & Python Introduction, Variables, Basic I/O, Primitive Data Types & Type Casting, control-flow essentials | [Link to lectures](./lectures/week-01) | None currently |
+| 2 | Complex Data Types (List, Tuple, Set and Dict), Helper Functions and Loops | [Link to /lectures](./lectures/week-02) | None currently |
 | 3 | [Topic Name] | [Link to /lectures] | [Link to /assignments] |
 
 ## Grading & Submission
 
-Assignments are submitted by pushing your code to your private repository provided by GitHub Classroom. [Explain any specific auto-grading or manual review steps here].
+Assignments are submitted by pushing your code to your private repository provided by GitHub Classroom.
